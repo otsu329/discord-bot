@@ -140,4 +140,4 @@ const contracts = require("./contracts");
 const PairABI = require("./abis/Pair.sjon");
 const FactoryABI = require("./abis/Factory.sjon");
 
-client.login(process.env.DISCORD);
+client.login(ODMzMzYwMjg5MjE0ODkwMDQ0.YHxNQA.Cv4p_iscrVA9nWa7ZYkX39_GHn8);
